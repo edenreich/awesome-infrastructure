@@ -11,7 +11,7 @@ Declaring the infrastructure in a known format such as YAML helps to reduce unex
 
 Long story short - IaD is a way to declare the desired state, so the operators can make it the actual state.
 
-## Why is that important ?
+## Why is this important ?
 
 It's important because, if you keep the declaration of the infrastructure simple, engineers with different backgrounds can collaborate effectivly.
 All of those declaration files, could be reviewed using a pull request.
