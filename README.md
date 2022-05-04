@@ -13,7 +13,7 @@ Long story short - IaD is a way to declare the desired state, so the operators c
 
 ## Tools
 
-Here is a collection of IaD Cloud Agnostic and open source tools:
+Here is a collection of IaD, vendor neutral and open source tools:
 
 - [Kubernetes](https://kubernetes.io/) - Also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications
 - [Crossplane](https://crossplane.io/) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors
