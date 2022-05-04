@@ -13,7 +13,7 @@ Long story short - IaD is a way to declare the desired state, so the operators c
 
 ## Why is this important ?
 
-It's important because, if you keep the declaration of the infrastructure simple, engineers with different backgrounds can collaborate effectivly.
+It's important because, if you keep the declaration of the infrastructure simple, engineers from different backgrounds can collaborate effectivly.
 All of those declaration files, could be reviewed using a pull request.
 By using this approach(also known as GitOps) everything is versioned and changes are predictable.
 
