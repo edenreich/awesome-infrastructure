@@ -8,6 +8,7 @@ A curated list for awesome Infrastructure as Data (IaD) tools and resources insp
 
 Infrastructure as Data(IaD) is the concept of declaring the entire infrastructure of an organisation with data(i.e normally in YAML, sometimes also in JSON).
 Declaring the infrastructure in a known format such as YAML helps to reduce unexpected behaviours of a system, because that file doesn't contain any specific programing language logic - you just declare what you want the infrastucture to be and you let the software do its job to ensure that what you specified becomes the actual state of the system. 
+
 Long story short - IaD is a way to declare the desired state, so the operators can make it the actual state.
 
 ## Tools
