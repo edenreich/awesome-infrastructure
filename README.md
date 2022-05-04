@@ -13,12 +13,14 @@ Long story short - IaD is a way to declare the desired state, so the operators c
 
 ## Why is this important ?
 
-It's important because, if you keep the declaration of the infrastructure simple, engineers from different backgrounds can collaborate effectivly.
+It's important because, if you keep the declaration of the infrastructure simple, Engineers from different backgrounds can collaborate effectivly.
 All of those declaration files, could be reviewed using a pull request.
 By using this approach(also known as GitOps) everything is versioned and changes are predictable.
 
 If you declare all the Infrastructure as Data, it would also help in Disaster Recovery(DR) and would improve the Recovery Time Objective(RTO).
 The infrastructure is much more resilient, when you can simply replicate everything from the ground up - you don't need to memorise how your co-worker clicked on all of those buttons to get to the desired state.
+
+P.S Using Kubernetes operators does NOT replace DevOps Engineers. It just makes collabration better.
 
 ## Tools
 
