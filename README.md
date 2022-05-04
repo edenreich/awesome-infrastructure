@@ -24,7 +24,7 @@ P.S Using Kubernetes operators does NOT replace DevOps Engineers. It just makes 
 
 ## Tools
 
-Here is a collection of IaD, vendor neutral and open source tools:
+Here is a collection of IaD open source tools:
 
 - [Kubernetes](https://kubernetes.io/) - Also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications
 - [Crossplane](https://crossplane.io/) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors
