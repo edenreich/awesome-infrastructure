@@ -29,3 +29,4 @@ Here is a collection of IaD open source tools:
 - [Kubernetes](https://kubernetes.io/) - Also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications
 - [Crossplane](https://crossplane.io/) - Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors
 - ...
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
